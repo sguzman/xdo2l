@@ -1,3 +1,18 @@
+xdo2l
+===
+
+Summary
+====
+My goals for this repo is to
+* add xinput awareness
+* add ability to select from any master input devices available
+* spawn "anonymous" master device to send input so as to not disturb your main mouse and destroy it after you're done
+* hide any alternative cursor you use as to not be annoying
+* ...
+
+
+Old stuff
+====
 xdotool: Fake input from the mouse and keyboard very easily.
   Also supports window manager actions such as moving, activating, and other
   actions on windows.
